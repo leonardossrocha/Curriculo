@@ -1,14 +1,10 @@
-# Curriculo
-Currículo
+# Curriculo Profissional
 
-Leonardo Santiago Sidon da Rocha
-Brasileiro, solteiro
+Leonardo Santiago Sidon da Rocha, Brasileiro, solteiro
 
 Londrina – PR
 
-leonardossr@gmail.com – www.leonardorocha.eti.br 
-
-http://lattes.cnpq.br/6834708558345857 
+leonardossr@gmail.com / www.leonardorocha.eti.br / http://lattes.cnpq.br/6834708558345857 
 
 
 Bacharel em Sistemas de informação (2006), com especialização MBA em TI (2012). 2 anos de experiência como analista de monitoramento e avaliação do programa PIDISE e 2 anos como analista de sistemas no Plano FutuRO, ambos, no governo de Rondônia. Atuou como bolsista do CNPq por 1 ano no Projeto Casa Brasil como coordenador geral. 
