@@ -2,12 +2,9 @@
 Currículo
 
 Leonardo Santiago Sidon da Rocha
-
 Brasileiro, solteiro
 
-Rua alemanha, 619 – Jd igapó – Londrina – PR
-
-(43)3026-7315 / (41)8731-6868
+Londrina – PR
 
 leonardossr@gmail.com – www.leonardorocha.eti.br 
 
