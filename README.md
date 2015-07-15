@@ -46,17 +46,18 @@ Período: 08/2009 – 08/2010
 Conselho Nacional de Desenvolvimento Científico e Tecnológico - CNPq
 Cargo: Coordenador de Projeto
 Período: 08/2008 – 08/2009
+
+
 IDIOMA – LANGUAGE
 
 Inglês – Avançado (Leitura, escrita e conversação)
+
 Espanhol – Intermediário (Leitura, escrita e conversação)
+
 
 CURSOS  – COURSES
 
-Linux Fundamentals
-Linux Security Servers
-Linux Security SysAdmin 
-4Linux Open Software Specialist, 4LINUX, Brasil
+Linux Fundamentals | Linux Security Servers | Linux Security SysAdmin | 4Linux Open Software Specialist, 4LINUX, Brasil
 2014
 
 Liderança, gestão e competitividade 
@@ -66,11 +67,11 @@ Centro de Liderança Pública, CLP, Brasil
 OUTRAS INFORMAÇÕES – OTHER INFORMATIONS
 
 Aprovado no concurso do Instituto Federal de Rondônia para Técnico em Tecnologia da Informação;
-Participou de cursos de intrusão e segurança ministrado pelo Clube do Hacker;
-Voluntário do Serviço Pastoral dos Migrantes -SPM;
-Voluntário na Pastoral da Juventude;
-Professor formador em tecnologias pelo MEC;
-Palestrante em projetos sociais e encontros de iniciativa popular;
+Participou de cursos de intrusão e segurança ministrado pelo Clube do Hacker / 
+Voluntário do Serviço Pastoral dos Migrantes -SPM / 
+Voluntário na Pastoral da Juventude / 
+Professor formador em tecnologias pelo MEC / 
+Palestrante em projetos sociais e encontros de iniciativa popular /
 Usuário colaborador GNU/Linux;
 
 PRETENSÕES FUTURAS – FUTURE PRETENSIONS
