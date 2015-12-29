@@ -7,22 +7,26 @@ Londrina – PR
 leonardossr@gmail.com / www.leonardorocha.eti.br / http://lattes.cnpq.br/6834708558345857 
 
 
-Bacharel em Sistemas de informação (2006), com especialização MBA em TI (2012). 2 anos de experiência como analista de monitoramento e avaliação do programa PIDISE e 2 anos como analista de sistemas no Plano FutuRO, ambos, no governo de Rondônia. Atuou como bolsista do CNPq por 1 ano no Projeto Casa Brasil como coordenador geral. 
+Bacharel em Sistemas de informação (2006), com especialização MBA em TI (2012), mestrando em Ciência da Computação pela UEL - Londrina e integrante do grupo de pesquisa do Laboratório Gaia - integração de frameworks e aplicativos Gaia de Governança de TIC e de Gerenciamento de Projetos de Software. 2 anos de experiência como analista de monitoramento e avaliação do programa PIDISE e 2 anos como analista de sistemas no Plano FutuRO, ambos, no governo de Rondônia. Atuou como bolsista do CNPq por 1 ano no Projeto Casa Brasil como coordenador geral. 
 
-Bachelor of Information Systems (2006) and	 an MBA I.T. specialist (2012). I have 2 years of experience as Analyst tracking and evaluation of PIDISE program and two years as a Systems Analyst in the FutuRO Plan, both in the Rondonia's Government. I served as a fellow of CPNq for  one year in the House Brazil Project as chair.
+Bachelor of Information Systems (2006) and MBA I.T. specialist (2012), I'm studying master's degree in Computer Science course from UEL - Londrina and member of the Gaia Laboratory research group - integration frameworks and ICT Governance applications and Software Project Management. I have 2 years of experience as Analyst tracking and evaluation of PIDISE program and two years as a Systems Analyst in the FutuRO Plan, both in the Rondonia's Government. I served as a fellow of CPNq for  one year in the House Brazil Project as chair.
 
 FORMAÇÃO ACADÊMICA/TITULAÇÃO – EDUCATION
 
+Mestrado em Ciência da Computação
+Universidade Estadual de Londrina - PR, Brasil
+Em andamento
+
 MBA em Tecnologia da Informação 
-Faculdade São Lucas, FSL, Porto Velho, Brasil
+Faculdade São Lucas, FSL, Porto Velho - RO, Brasil
 Conclusão – 2012
 
 Mídias
-Universidade Federal de Rondônia, Porto Velho, Brasil.
+Universidade Federal de Rondônia, Porto Velho - RO, Brasil.
 Conclusão –  2012
 
 Graduação em Sistemas de Informação 
-Faculdades Associadas de Ariquemes, FAAR, Brasil
+Faculdades Associadas de Ariquemes, FAAR, Ariquemes - RO, Brasil
 Conclusão – 2006
 
 EXPERIÊNCIA PROFISSIONAL – PROFESSIONAL EXPERIENCE
@@ -77,4 +81,3 @@ Usuário colaborador GNU/Linux;
 PRETENSÕES FUTURAS – FUTURE PRETENSIONS
 
 Certifições: CEH e CHFI, ITIL, LPI e RHCSA e CobiT.
-Estudos: Mestrado profissional em computação aplicada na UTFPR.
