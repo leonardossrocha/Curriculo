@@ -36,11 +36,11 @@ Cargo: Assessor Especial I 		Função:  Analista de monitoramento e avaliação
 Período: 11/2013 – Atual
 
 Governo do Estado de Rondônia
-Cargo: Assessor Especial 		Função:  Gerente de projetos de T.I.
+Cargo: Assessor Especial 		Função:  Gerente de projetos
 Período: 07/2011 – 10/2013
 
 Serviço Nacional de Aprendizagem
-Cargo: Consultor de Informática	 		
+Cargo: Consultor de Informática	        Função: Instrutor de informática		
 Período: 06/2010 – 01/2011
 
 Ministério da Educação - FNDE
