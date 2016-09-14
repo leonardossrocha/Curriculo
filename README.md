@@ -7,36 +7,35 @@ Londrina – PR
 leonardossr@gmail.com / www.leonardorocha.eti.br / [Lattes](http://lattes.cnpq.br/6834708558345857)
 
 
-Bacharel em Sistemas de informação (2006), com especialização MBA em TI (2012), mestrando em Ciência da Computação pela UEL - Londrina e integrante do grupo de pesquisa do Laboratório Gaia - integração de frameworks e aplicativos Gaia de Governança de TIC e de Gerenciamento de Projetos de Software. 2 anos de experiência como analista de monitoramento e avaliação do programa [PIDISE](http://www.bndes.gov.br/SiteBNDES/bndes/bndes_pt/Institucional/Sala_de_Imprensa/Noticias/2012/todas/20120927_rondonia.html) e 2 anos como analista de sistemas e projetos no [Plano FutuRO](http://www.rondonia.ro.gov.br/seas/institucional/plano-futuro/sobre-o-plano-futuro/), ambos, no governo de Rondônia. Atuou como bolsista do CNPq por 1 ano no [Projeto Casa Brasil](https://pt.wikipedia.org/wiki/Projeto_Casa_Brasil) como coordenador geral.
+<p style="text-align: justify;">Bacharel em Sistemas de informação (2006), com especialização MBA em TI (2012), mestrando em Ciência da Computação pela UEL - Londrina e integrante do grupo de pesquisa do Laboratório Gaia - integração de frameworks e aplicativos Gaia de Governança de TIC e de Gerenciamento de Projetos de Software. 2 anos de experiência como analista de monitoramento e avaliação do programa [PIDISE](http://www.bndes.gov.br/SiteBNDES/bndes/bndes_pt/Institucional/Sala_de_Imprensa/Noticias/2012/todas/20120927_rondonia.html) e 2 anos como analista de sistemas e projetos no [Plano FutuRO](http://www.rondonia.ro.gov.br/seas/institucional/plano-futuro/sobre-o-plano-futuro/), ambos, no governo de Rondônia. Atuou como bolsista do CNPq por 1 ano no [Projeto Casa Brasil](https://pt.wikipedia.org/wiki/Projeto_Casa_Brasil) como coordenador geral.
 <br/>
-Bachelor of Information Systems (2006) and MBA I.T. specialist (2012), I'm studying master's degree in Computer Science course from UEL - Londrina and member of the Gaia Laboratory research group - integration frameworks and ICT Governance applications and Software Project Management. I have 2 years of experience as Analyst tracking and evaluation of [PIDISE](http://www.bndes.gov.br/SiteBNDES/bndes/bndes_pt/Institucional/Sala_de_Imprensa/Noticias/2012/todas/20120927_rondonia.html) program and two years as a Systems and project Analyst in the [FutuRO Plan](http://www.rondonia.ro.gov.br/seas/institucional/plano-futuro/sobre-o-plano-futuro/), both in the Rondonia's Government. I served as a fellow of CPNq for  one year in the [House Brazil Project](https://pt.wikipedia.org/wiki/Projeto_Casa_Brasil) as chair.
+Bachelor of Information Systems (2006) and MBA I.T. specialist (2012), I'm studying master's degree in Computer Science course from UEL - Londrina and member of the Gaia Laboratory research group - integration frameworks and ICT Governance applications and Software Project Management. I have 2 years of experience as Analyst tracking and evaluation of [PIDISE](http://www.bndes.gov.br/SiteBNDES/bndes/bndes_pt/Institucional/Sala_de_Imprensa/Noticias/2012/todas/20120927_rondonia.html) program and two years as a Systems and project Analyst in the [FutuRO Plan](http://www.rondonia.ro.gov.br/seas/institucional/plano-futuro/sobre-o-plano-futuro/), both in the Rondonia's Government. I served as a fellow of CPNq for  one year in the [House Brazil Project](https://pt.wikipedia.org/wiki/Projeto_Casa_Brasil) as chair.</p>
 <br/><br/>
 ## **FORMAÇÃO ACADÊMICA/TITULAÇÃO – EDUCATION**
 
 ```
-Mestrado em Ciência da Computação<br/>
-Universidade Estadual de Londrina - PR, Brasil<br/>
-Em andamento<br/>
+Mestrado em Ciência da Computação
+Universidade Estadual de Londrina - PR, Brasil
+Em andamento
 ```
 
 ```
-MBA em Tecnologia da Informação<br/>
-Faculdade São Lucas, FSL, Porto Velho - RO, Brasil<br/>
-Conclusão – 2012<br/>
+MBA em Tecnologia da Informação
+Faculdade São Lucas, FSL, Porto Velho - RO, Brasil
+Conclusão – 2012
 ```
 
 ```
-Mídias na Educação<br/>
-Universidade Federal de Rondônia, Porto Velho - RO, Brasil.<br/>
-Conclusão –  2012<br/>
+Mídias na Educação
+Universidade Federal de Rondônia, Porto Velho - RO, Brasil.
+Conclusão –  2012
 ```
 
 ```
-Graduação em Sistemas de Informação<br/>
-Faculdades Associadas de Ariquemes, FAAR, Ariquemes - RO, Brasil<br/>
-Conclusão – 2006<br/>
+Graduação em Sistemas de Informação
+Faculdades Associadas de Ariquemes, FAAR, Ariquemes - RO, Brasil
+Conclusão – 2006
 ```
-<br/>
 
 ## **EXPERIÊNCIA PROFISSIONAL – PROFESSIONAL EXPERIENCE**
 <br/><br/>
