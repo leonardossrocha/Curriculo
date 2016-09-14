@@ -32,22 +32,22 @@ Conclusão – 2006<br/>
 **EXPERIÊNCIA PROFISSIONAL – PROFESSIONAL EXPERIENCE**
 <br/><br/>
 *Governo do Estado de Rondônia [08/2005 a 01/2016]*<br/>
-Cargo: Assessor Especial I 		Função:  Analista de monitoramento e avaliação<br/>
+***Cargo:*** Assessor Especial I 		         ***Função:***  Analista de monitoramento e avaliação<br/>
 <br/>
-Cargo: Assessor Especial 		Função:  Gerente de projetos<br/>
+***Cargo:*** Assessor Especial 		           ***Função:***  Gerente de projetos<br/>
 <br/>
-Cargo: Gerente 		Função:  Gerente Estadual de Políticas públicas<br/>
+***Cargo:*** Gerente 		                     ***Função:***  Gerente Estadual de Políticas públicas<br/>
 <br/>
-Cargo: Técnico Educacional Nível 2 		Função:  Professor Formador em Tecnologia da Informação<br/>
+***Cargo:*** Técnico Educacional Nível 2 		 ***Função:***  Professor Formador em Tecnologia da Informação<br/>
 <br/>
 *Serviço Nacional de Aprendizagem [06/2010 a 01/2011]*<br/>
-Cargo: Consultor de Informática	        Função: Instrutor de informática<br/>
+***Cargo:*** Consultor de Informática	       ***Função:*** Instrutor de informática<br/>
 <br/>
 *Ministério da Educação - FNDE[08/2009 a 08/2010]*<br/>
-Cargo: Bolsista	 		Função:  Professor pesquisador<br/>
+***Cargo:*** Bolsista	 		                   ***Função:***  Professor pesquisador<br/>
 <br/>
 *Conselho Nacional de Desenvolvimento Científico e Tecnológico - CNPq [08/2008 a 08/2009]*<br/>
-Cargo: Coordenador de Projeto<br/>
+***Cargo:*** Coordenador de Projeto           ***Função*** Coordenador<br/>
 <br/>
 **IDIOMA – LANGUAGE**
 <br/>
