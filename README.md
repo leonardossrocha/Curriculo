@@ -1,15 +1,15 @@
 # Curriculo Profissional
 
-Leonardo Santiago Sidon da Rocha, Brasileiro, solteiro
+*Leonardo Santiago Sidon da Rocha, Brasileiro, solteiro*
 
 Londrina – PR
 
-leonardossr@gmail.com / www.leonardorocha.eti.br / http://lattes.cnpq.br/6834708558345857 
+leonardossr@gmail.com / www.leonardorocha.eti.br / [Lattes](http://lattes.cnpq.br/6834708558345857)
 
 
-Bacharel em Sistemas de informação (2006), com especialização MBA em TI (2012), mestrando em Ciência da Computação pela UEL - Londrina e integrante do grupo de pesquisa do Laboratório Gaia - integração de frameworks e aplicativos Gaia de Governança de TIC e de Gerenciamento de Projetos de Software. 2 anos de experiência como analista de monitoramento e avaliação do programa PIDISE e 2 anos como analista de sistemas no Plano FutuRO, ambos, no governo de Rondônia. Atuou como bolsista do CNPq por 1 ano no Projeto Casa Brasil como coordenador geral. 
+Bacharel em Sistemas de informação (2006), com especialização MBA em TI (2012), mestrando em Ciência da Computação pela UEL - Londrina e integrante do grupo de pesquisa do Laboratório Gaia - integração de frameworks e aplicativos Gaia de Governança de TIC e de Gerenciamento de Projetos de Software. 2 anos de experiência como analista de monitoramento e avaliação do programa [PIDISE](http://www.bndes.gov.br/SiteBNDES/bndes/bndes_pt/Institucional/Sala_de_Imprensa/Noticias/2012/todas/20120927_rondonia.html) e 2 anos como analista de sistemas e projetos no [Plano FutuRO](http://www.rondonia.ro.gov.br/seas/institucional/plano-futuro/sobre-o-plano-futuro/), ambos, no governo de Rondônia. Atuou como bolsista do CNPq por 1 ano no [Projeto Casa Brasil](https://pt.wikipedia.org/wiki/Projeto_Casa_Brasil) como coordenador geral.
 
-Bachelor of Information Systems (2006) and MBA I.T. specialist (2012), I'm studying master's degree in Computer Science course from UEL - Londrina and member of the Gaia Laboratory research group - integration frameworks and ICT Governance applications and Software Project Management. I have 2 years of experience as Analyst tracking and evaluation of PIDISE program and two years as a Systems Analyst in the FutuRO Plan, both in the Rondonia's Government. I served as a fellow of CPNq for  one year in the House Brazil Project as chair.
+Bachelor of Information Systems (2006) and MBA I.T. specialist (2012), I'm studying master's degree in Computer Science course from UEL - Londrina and member of the Gaia Laboratory research group - integration frameworks and ICT Governance applications and Software Project Management. I have 2 years of experience as Analyst tracking and evaluation of [PIDISE](http://www.bndes.gov.br/SiteBNDES/bndes/bndes_pt/Institucional/Sala_de_Imprensa/Noticias/2012/todas/20120927_rondonia.html) program and two years as a Systems and project Analyst in the [FutuRO Plan](http://www.rondonia.ro.gov.br/seas/institucional/plano-futuro/sobre-o-plano-futuro/), both in the Rondonia's Government. I served as a fellow of CPNq for  one year in the [House Brazil Project](https://pt.wikipedia.org/wiki/Projeto_Casa_Brasil) as chair.
 
 FORMAÇÃO ACADÊMICA/TITULAÇÃO – EDUCATION
 
@@ -17,7 +17,7 @@ Mestrado em Ciência da Computação
 Universidade Estadual de Londrina - PR, Brasil
 Em andamento
 
-MBA em Tecnologia da Informação 
+MBA em Tecnologia da Informação
 Faculdade São Lucas, FSL, Porto Velho - RO, Brasil
 Conclusão – 2012
 
@@ -25,7 +25,7 @@ Mídias
 Universidade Federal de Rondônia, Porto Velho - RO, Brasil.
 Conclusão –  2012
 
-Graduação em Sistemas de Informação 
+Graduação em Sistemas de Informação
 Faculdades Associadas de Ariquemes, FAAR, Ariquemes - RO, Brasil
 Conclusão – 2006
 
@@ -64,19 +64,19 @@ CURSOS  – COURSES
 Linux Fundamentals | Linux Security Servers | Linux Security SysAdmin | 4Linux Open Software Specialist, 4LINUX, Brasil
 2014
 
-Liderança, gestão e competitividade 
+Liderança, gestão e competitividade
 Centro de Liderança Pública, CLP, Brasil
 2012
 
 OUTRAS INFORMAÇÕES – OTHER INFORMATIONS
 
 Aprovado no concurso do Instituto Federal de Rondônia para Técnico em Tecnologia da Informação;
-Participou de cursos de intrusão e segurança ministrado pelo Clube do Hacker / 
-Voluntário do Serviço Pastoral dos Migrantes -SPM / 
-Voluntário na Pastoral da Juventude / 
+Participou de cursos de intrusão e segurança ministrado pelo Clube do Hacker /
+Voluntário do Serviço Pastoral dos Migrantes -SPM /
+Voluntário na Pastoral da Juventude /
 Voluntário na elaboração de projetos para captação de recursos na Cáritas de Londrina /
 Consultor, Palestrante e Docente em TI (como prestador de serviço) do Instituto Municipal de Administração Pública de Curitiba – PR /
-Professor formador em tecnologias pelo MEC / 
+Professor formador em tecnologias pelo MEC /
 Palestrante em projetos sociais e encontros de iniciativa popular /
 Usuário colaborador GNU/Linux;
 
