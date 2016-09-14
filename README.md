@@ -11,7 +11,7 @@ Bacharel em Sistemas de informação (2006), com especialização MBA em TI (201
 <br/>
 Bachelor of Information Systems (2006) and MBA I.T. specialist (2012), I'm studying master's degree in Computer Science course from UEL - Londrina and member of the Gaia Laboratory research group - integration frameworks and ICT Governance applications and Software Project Management. I have 2 years of experience as Analyst tracking and evaluation of [PIDISE](http://www.bndes.gov.br/SiteBNDES/bndes/bndes_pt/Institucional/Sala_de_Imprensa/Noticias/2012/todas/20120927_rondonia.html) program and two years as a Systems and project Analyst in the [FutuRO Plan](http://www.rondonia.ro.gov.br/seas/institucional/plano-futuro/sobre-o-plano-futuro/), both in the Rondonia's Government. I served as a fellow of CPNq for  one year in the [House Brazil Project](https://pt.wikipedia.org/wiki/Projeto_Casa_Brasil) as chair.
 <br/><br/>
-FORMAÇÃO ACADÊMICA/TITULAÇÃO – EDUCATION
+**FORMAÇÃO ACADÊMICA/TITULAÇÃO – EDUCATION**
 <br/><br/>
 Mestrado em Ciência da Computação<br/>
 Universidade Estadual de Londrina - PR, Brasil<br/>
@@ -29,30 +29,29 @@ Graduação em Sistemas de Informação<br/>
 Faculdades Associadas de Ariquemes, FAAR, Ariquemes - RO, Brasil<br/>
 Conclusão – 2006<br/>
 <br/><br/>
-EXPERIÊNCIA PROFISSIONAL – PROFESSIONAL EXPERIENCE
+**EXPERIÊNCIA PROFISSIONAL – PROFESSIONAL EXPERIENCE**
 <br/><br/>
-Governo do Estado de Rondônia [08/2005 a 01/2016]<br/>
+*Governo do Estado de Rondônia [08/2005 a 01/2016]*<br/>
 Cargo: Assessor Especial I 		Função:  Analista de monitoramento e avaliação<br/>
-<br/><br/>
+<br/>
 Cargo: Assessor Especial 		Função:  Gerente de projetos<br/>
-Período: 07/2011 – 10/2013<br/>
-<br/><br/>
-Serviço Nacional de Aprendizagem [06/2010 a 01/2011]<br/>
+<br/>
+*Serviço Nacional de Aprendizagem [06/2010 a 01/2011]*<br/>
 Cargo: Consultor de Informática	        Função: Instrutor de informática<br/>
 <br/><br/>
-Ministério da Educação - FNDE[08/2009 a 08/2010]<br/>
+*Ministério da Educação - FNDE[08/2009 a 08/2010]*<br/>
 Cargo: Bolsista	 		Função:  Professor pesquisador<br/>
 <br/><br/>
-Conselho Nacional de Desenvolvimento Científico e Tecnológico - CNPq [08/2008 a 08/2009]<br/>
+*Conselho Nacional de Desenvolvimento Científico e Tecnológico - CNPq [08/2008 a 08/2009]*<br/>
 Cargo: Coordenador de Projeto<br/>
 <br/><br/>
-IDIOMA – LANGUAGE
+**IDIOMA – LANGUAGE**
 <br/>
 Inglês – Avançado (Leitura, escrita e conversação)
 <br/>
 Espanhol – Intermediário (Leitura, escrita e conversação)
 <br/><br/>
-CURSOS  – COURSES
+**CURSOS  – COURSES**
 <br/>
 Linux Fundamentals | Linux Security Servers | Linux Security SysAdmin | 4Linux Open Software Specialist, 4LINUX, Brasil<br/>
 2014<br/>
@@ -61,7 +60,7 @@ Liderança, gestão e competitividade<br/>
 Centro de Liderança Pública, CLP, Brasil<br/>
 2012<br/>
 <br/>
-OUTRAS INFORMAÇÕES – OTHER INFORMATIONS<br/>
+**OUTRAS INFORMAÇÕES – OTHER INFORMATIONS**<br/>
 <br/>
 Aprovado no concurso do Instituto Federal de Rondônia para Técnico em Tecnologia da Informação;<br/>
 Participou de cursos de intrusão e segurança ministrado pelo Clube do Hacker /<br/>
@@ -73,6 +72,6 @@ Professor formador em tecnologias pelo MEC /<br/>
 Palestrante em projetos sociais e encontros de iniciativa popular /<br/>
 Usuário colaborador GNU/Linux;<br/>
 <br/>
-PRETENSÕES FUTURAS – FUTURE PRETENSIONS<br/><br/>
+**PRETENSÕES FUTURAS – FUTURE PRETENSIONS**<br/><br/>
 
 Certifições: CEH e CHFI, ITIL, LPI e RHCSA e CobiT.
