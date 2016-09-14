@@ -74,6 +74,8 @@ Aprovado no concurso do Instituto Federal de Rondônia para Técnico em Tecnolog
 Participou de cursos de intrusão e segurança ministrado pelo Clube do Hacker / 
 Voluntário do Serviço Pastoral dos Migrantes -SPM / 
 Voluntário na Pastoral da Juventude / 
+Voluntário na elaboração de projetos para captação de recursos na Cáritas de Londrina /
+Consultor, Palestrante e Docente em TI (como prestador de serviço) do Instituto Municipal de Administração Pública de Curitiba – PR /
 Professor formador em tecnologias pelo MEC / 
 Palestrante em projetos sociais e encontros de iniciativa popular /
 Usuário colaborador GNU/Linux;
