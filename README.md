@@ -13,9 +13,9 @@ Bachelor of Information Systems (2006) and MBA I.T. specialist (2012), I'm study
 <br/><br/>
 **FORMAÇÃO ACADÊMICA/TITULAÇÃO – EDUCATION**
 <br/><br/>
-Mestrado em Ciência da Computação<br/>
-Universidade Estadual de Londrina - PR, Brasil<br/>
-Em andamento<br/>
+> Mestrado em Ciência da Computação<br/>
+> Universidade Estadual de Londrina - PR, Brasil<br/>
+> Em andamento<br/>
 <br/>
 MBA em Tecnologia da Informação<br/>
 Faculdade São Lucas, FSL, Porto Velho - RO, Brasil<br/>
