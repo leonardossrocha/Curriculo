@@ -14,21 +14,25 @@ Bachelor of Information Systems (2006) and MBA I.T. specialist (2012), I'm study
 **FORMAÇÃO ACADÊMICA/TITULAÇÃO – EDUCATION**
 <br/><br/>
 > Mestrado em Ciência da Computação<br/>
-> Universidade Estadual de Londrina - PR, Brasil<br/>
-> Em andamento<br/>
+Universidade Estadual de Londrina - PR, Brasil<br/>
+Em andamento<br/>
+
 <br/>
-MBA em Tecnologia da Informação<br/>
+>MBA em Tecnologia da Informação<br/>
 Faculdade São Lucas, FSL, Porto Velho - RO, Brasil<br/>
 Conclusão – 2012<br/>
 <br/>
-Mídias na Educação<br/>
+
+>Mídias na Educação<br/>
 Universidade Federal de Rondônia, Porto Velho - RO, Brasil.<br/>
 Conclusão –  2012<br/>
 <br/>
-Graduação em Sistemas de Informação<br/>
+
+>Graduação em Sistemas de Informação<br/>
 Faculdades Associadas de Ariquemes, FAAR, Ariquemes - RO, Brasil<br/>
 Conclusão – 2006<br/>
 <br/><br/>
+
 **EXPERIÊNCIA PROFISSIONAL – PROFESSIONAL EXPERIENCE**
 <br/><br/>
 *Governo do Estado de Rondônia [08/2005 a 01/2016]*<br/>
