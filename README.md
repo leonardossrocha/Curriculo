@@ -12,7 +12,7 @@ Bacharel em Sistemas de informação (2006), com especialização MBA em TI (201
 Bachelor of Information Systems (2006) and MBA I.T. specialist (2012), I'm studying master's degree in Computer Science course from UEL - Londrina and member of the Gaia Laboratory research group - integration frameworks and ICT Governance applications and Software Project Management. I have 2 years of experience as Analyst tracking and evaluation of [PIDISE](http://www.bndes.gov.br/SiteBNDES/bndes/bndes_pt/Institucional/Sala_de_Imprensa/Noticias/2012/todas/20120927_rondonia.html) program and two years as a Systems and project Analyst in the [FutuRO Plan](http://www.rondonia.ro.gov.br/seas/institucional/plano-futuro/sobre-o-plano-futuro/), both in the Rondonia's Government. I served as a fellow of CPNq for  one year in the [House Brazil Project](https://pt.wikipedia.org/wiki/Projeto_Casa_Brasil) as chair.
 <br/><br/>
 ## **FORMAÇÃO ACADÊMICA/TITULAÇÃO – EDUCATION**
-<br/><br/>
+
 ```
 Mestrado em Ciência da Computação<br/>
 Universidade Estadual de Londrina - PR, Brasil<br/>
