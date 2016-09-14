@@ -40,6 +40,7 @@ Conclusão – 2006
 ## **EXPERIÊNCIA PROFISSIONAL – PROFESSIONAL EXPERIENCE**
 <br/><br/>
 *Governo do Estado de Rondônia [08/2005 a 01/2016]*<br/>
+
 1. ***Cargo:*** Assessor Especial I 		         
   ***Função:***  Analista de monitoramento e avaliação<br/>
 
@@ -66,16 +67,17 @@ Conclusão – 2006
 *Conselho Nacional de Desenvolvimento Científico e Tecnológico - CNPq [08/2008 a 08/2009]*<br/>
 ***Cargo:*** Coordenador de Projeto           
 ***Função*** Coordenador<br/>
-<br/>
+
 ## **IDIOMA – LANGUAGE**
 <br/>
 Inglês – Avançado (Leitura, escrita e conversação)
 <br/>
 Espanhol – Intermediário (Leitura, escrita e conversação)
-<br/><br/>
+<br/>
 ## **CURSOS  – COURSES**
 ```
-Linux Fundamentals | Linux Security Servers | Linux Security SysAdmin | 4Linux Open Software Specialist, 4LINUX, Brasil
+Linux Fundamentals | Linux Security Servers 
+Linux Security SysAdmin | 4Linux Open Software Specialist, 4LINUX, Brasil
 2014
 ```
 ```
