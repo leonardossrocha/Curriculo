@@ -36,15 +36,19 @@ Cargo: Assessor Especial I 		Função:  Analista de monitoramento e avaliação<
 <br/>
 Cargo: Assessor Especial 		Função:  Gerente de projetos<br/>
 <br/>
+Cargo: Gerente 		Função:  Gerente Estadual de Políticas públicas<br/>
+<br/>
+Cargo: Técnico Educacional Nível 2 		Função:  Professor Formador em Tecnologia da Informação<br/>
+<br/>
 *Serviço Nacional de Aprendizagem [06/2010 a 01/2011]*<br/>
 Cargo: Consultor de Informática	        Função: Instrutor de informática<br/>
-<br/><br/>
+<br/>
 *Ministério da Educação - FNDE[08/2009 a 08/2010]*<br/>
 Cargo: Bolsista	 		Função:  Professor pesquisador<br/>
-<br/><br/>
+<br/>
 *Conselho Nacional de Desenvolvimento Científico e Tecnológico - CNPq [08/2008 a 08/2009]*<br/>
 Cargo: Coordenador de Projeto<br/>
-<br/><br/>
+<br/>
 **IDIOMA – LANGUAGE**
 <br/>
 Inglês – Avançado (Leitura, escrita e conversação)
