@@ -99,6 +99,7 @@ Centro de Liderança Pública, CLP, Brasil
 ```
 ## **OUTRAS INFORMAÇÕES – OTHER INFORMATIONS**<br/>
 <br/>
+Atualmente é aluno não regular na disciplina de Robótica Inteligente e Autônoma no programa de pós-graduação no Departamento de Informática da Universidade Estadual de Maringá a nível de doutorado;<br/>
 Aprovado no concurso do Instituto Federal de Rondônia para Técnico em Tecnologia da Informação;<br/>
 Participou de cursos de intrusão e segurança ministrado pelo Clube do Hacker <br/>
 Voluntário do Serviço Pastoral dos Migrantes -SPM <br/>
